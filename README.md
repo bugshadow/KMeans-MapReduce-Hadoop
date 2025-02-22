@@ -174,8 +174,9 @@ with open("data/centroids.txt", "w") as f:
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,hadoop,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,hadoop,docker,git,ubuntu" />
 </div>
+
 
 ### 📊 GitHub Stats
 
