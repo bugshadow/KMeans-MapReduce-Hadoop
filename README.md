@@ -177,7 +177,6 @@ with open("data/centroids.txt", "w") as f:
   <img src="https://skillicons.dev/icons?i=python,hadoop,docker,git,ubuntu" />
 </div>
 
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bugshadow&theme=tokyonight&hide_border=true)
